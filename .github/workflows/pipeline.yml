@@ -1,4 +1,4 @@
-name: Delivery API Pipeline - Paulo Carlos
+name: Delivery API Pipeline
 
 on:
   push: 
