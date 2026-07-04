@@ -142,4 +142,4 @@ Contribuições são o que tornam a comunidade de código aberto um lugar incrí
 
 ---
 
-Feito com ❤️ por [Seu Nome](https://github.com/paulocarlosfilho)
+Feito com ❤️ por [Paulo Carlos](https://github.com/paulocarlosfilho)
